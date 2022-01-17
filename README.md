@@ -8,4 +8,4 @@
 | [Sandbox Share](https://www.synacktiv.com/en/publications/macos-xpc-exploitation-sandbox-share-case-study.html) | Alles CTF | 2021 | Eloi Benoist-Vanderbeken | xpc |
 | [Pillow](https://github.com/TrungNguyen1909/writeups/blob/master/35c3/pillow/index.md) | 35C3 CTF | 2018 | TrungNguyen1909 | xnu |
 | [IPwnKit](https://github.com/TrungNguyen1909/writeups/blob/master/DEFCON26-Qual/iPwnKit/index.md) | DEFCON CTF Quals | 2018 | TrungNguyen1909 | xnu |
-| [pwning your kernelz](https://github.com/TrungNguyen1909/writeups/blob/master/CampCTF/PwningKernelz/index.md) | Camp-CTF | 2019 | TrungNguyen1909 | xnu |
+| [pwning your kernelz](https://github.com/TrungNguyen1909/writeups/blob/master/CampCTF/PwningKernelz/index.md) | Camp CTF | 2019 | TrungNguyen1909 | xnu |
