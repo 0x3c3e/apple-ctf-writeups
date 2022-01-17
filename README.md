@@ -1,4 +1,4 @@
-| Title | CTF | Year | Author | Tags |
+| Name | CTF | Year | Author | Tags |
 |---|---|---|---|---|
 | [Machbook](https://github.com/how2hack/my-ctf-challenges/tree/master/2019/balsnctf-2019/machbook) | Balsn CTF | 2019 | how2hack | small-heap |
 | [Machbook Pro](https://github.com/how2hack/my-ctf-challenges/tree/master/2020/balsnctf-2020/machbookpro) | Balsn CTF | 2020 | how2hack | tiny-heap, double-free |
